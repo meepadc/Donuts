@@ -1,0 +1,268 @@
+@media (max-width: 1024px) {
+    .owl-nav {
+        display: none;
+    }
+    
+    .top_header{
+        padding: 0;
+    }
+    
+    .top_header p {
+        margin: 10px 100px 10px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+/*Header*/
+    .banner_heading_title {
+        margin-top: 103px;
+    }
+    
+    .banner_heading_sub {
+        margin-bottom: 30px;
+    }
+    
+    .input-group {
+        margin: 0 auto 30px auto;
+        width: 80%;
+    }
+    
+    .btn_searchResume {
+        margin: 20px auto 30px auto;
+    }
+    
+    .intro_heading_des {
+        margin-bottom: 10px;
+    }    
+/*End header*/
+    
+/*Count*/
+    .count_box {
+        padding: 50px 0;
+    }
+    
+    .count_item {
+        margin: 20px 0;
+    }
+    
+    .count_item_left {
+        float: left;
+        margin-right: 0;
+        text-align: right;
+    }
+    
+    .count_item_right {
+        display: block;
+    } 
+    
+    .count_item_right p {
+        white-space: normal;
+    }
+/*End count*/
+    
+/*Partners*/
+    .partners_mobile {
+        background: #2e3847;
+        color: #fff;
+    }
+    
+    .partners_mobile h1 {
+        margin-bottom: 30px;
+    }
+    
+    .partners_mobile_box {
+        padding-bottom: 40px;
+    }
+    
+    .partners_item_left {
+        padding-right: 0;
+    }
+    
+    .partners_item_left img {
+        float: right;
+        margin-bottom: 30px;
+    }
+    
+    .partners_item_right img {
+        margin-bottom: 30px;
+    }    
+/*End partners*/
+    
+/*Help*/
+    .help .container {
+        padding: 10px 50px;
+    }
+    
+    .help_heading p {
+        margin-bottom: 20px;
+    }
+    
+    .help_item .caption1 p {
+        margin-bottom: 10px;
+    }
+/*End help*/
+    
+    .owl-nav {
+        display: none;
+    }
+    
+    .candicate_panel {
+        height: auto;
+        width: auto;
+    }    
+
+}
+
+@media (max-width: 480px) {
+    
+    .banner {
+        
+    }
+    
+    .banner_heading {
+        padding: 80px 20px 0 20px;
+    }
+    
+    .banner_heading_title {
+        margin-top: 0;
+    }
+    
+    .banner_box {
+        padding: 0;
+        margin-bottom: 227px;
+
+    }
+    
+    .count_box {
+        padding: 50px 0;
+    }
+    
+    .intro_heading_des {
+        padding: 0;
+    }
+    
+    .caption p {
+        margin-bottom: 10px;
+    }
+    
+    .count_item_left {
+        margin-right: 0;
+        text-align: right;
+    }
+    
+    .count_item_right p {
+        margin-top: 10px;
+    }
+    
+    .count_item {
+        margin: 30px;
+    }
+    
+    
+    .help>.container {
+        padding: 10px 20px;
+    }
+    
+    .partners_mobile {
+        background: #2e3847;
+        color: #fff;
+    }
+    
+    .partners_mobile h1 {
+        margin-bottom: 30px;
+    }
+    
+    .partners_mobile_box {
+        padding-bottom: 40px;
+    }
+    
+    .partners_item_left {
+        padding-right: 0;
+    }
+    
+    .partners_item_left img {
+        float: right;
+        margin-bottom: 30px;
+    }
+    
+    .partners_item_right img {
+        margin-bottom: 30px;
+    }
+    
+/*    Page CV*/
+    .candicate_panel {
+        width: auto;
+        height: auto;
+    }
+    
+    .candicate_heading {
+        margin: 20px 0;
+    }
+    
+    .candicate_heading h1 {
+        font-size: 36px;
+    }
+    
+    .candicate_heading  p {
+        font-size: 11px;
+    }
+    
+    .candicate_panel {
+        margin-bottom: 30px;
+    }
+    
+    .panel-heading {
+        padding: 10px;
+    }
+    
+    .panel-heading h2 {
+        font-size: 20px;
+    }
+    
+    .number {
+        padding: 0 10px;
+    }
+    
+    .panel-body {
+        padding: 10px;
+    }
+    
+    .panel-comment {
+        padding: 20px 10px;
+    }
+    
+    .panel-button {
+        padding: 20px 0;
+    }
+    
+    .btn_requestCV {
+        width: auto;
+        height: auto;
+        padding: 8px 24px;
+    }
+    
+    .btn_seeMore {
+        width: auto;
+        height: auto;
+        margin: 0 auto 50px auto;
+        padding: 12px 64px;
+    }
+/*    End CV*/
+    
+    footer {
+        padding: 10px;
+    }
+    
+    footer ul li {
+        padding-right: 5px;
+    }
+    
+    footer ul li a {
+        font-size: 11px;
+    }
+    
+    .footer_mobile p {
+        color: #fff;
+        margin: 0;
+    }
+}
